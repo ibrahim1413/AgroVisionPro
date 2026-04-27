@@ -8,6 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.fragment.app.Fragment
+import com.example.agrovisionpro.helper.TFLiteHelper
 
 class DetectFragment : Fragment(R.layout.fragment_detect) {
 

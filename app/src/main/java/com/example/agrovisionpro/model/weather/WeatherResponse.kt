@@ -1,4 +1,4 @@
-package com.example.agrovisionpro.model
+package com.example.agrovisionpro.model.weather
 
 data class WeatherResponse(
     val main: Main,
