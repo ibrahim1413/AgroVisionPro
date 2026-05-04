@@ -1,4 +1,4 @@
-package com.example.agrovisionpro.ui
+package com.example.agrovisionpro.ui.fragment
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.view.View
 import android.widget.Button
 import androidx.fragment.app.Fragment
 import com.example.agrovisionpro.R
+import com.example.agrovisionpro.ui.auth.LoginActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class ProfileFragment : Fragment(R.layout.fragment_profile) {

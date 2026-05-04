@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.agrovisionpro.R
+import com.example.agrovisionpro.ui.auth.LoginActivity
 
 class SplashActivity : AppCompatActivity() {
 

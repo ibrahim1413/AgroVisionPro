@@ -1,4 +1,4 @@
-package com.example.agrovisionpro.ui
+package com.example.agrovisionpro.ui.fragment
 
 import androidx.fragment.app.Fragment
 import com.example.agrovisionpro.R

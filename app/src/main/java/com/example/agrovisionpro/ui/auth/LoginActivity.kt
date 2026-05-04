@@ -1,4 +1,4 @@
-package com.example.agrovisionpro.ui
+package com.example.agrovisionpro.ui.auth
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,7 +9,6 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.agrovisionpro.ui.MainActivity
 import com.example.agrovisionpro.R
-import com.example.agrovisionpro.ui.RegisterActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {
